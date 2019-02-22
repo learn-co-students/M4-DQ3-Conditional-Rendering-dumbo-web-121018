@@ -5,7 +5,7 @@ import { Profile, Photos, Cocktails, Pokemon} from '../components/Pages.js'
 class MainBox extends React.Component {
 
   state = {
-    selected: 'profile'
+    selected: 'profile',
   }
 
 
